@@ -76,13 +76,34 @@
     text-decoration: none;
 }
 
+/*
 
-
-
-
-
-
-
+@media only screen and (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .nav-logo {
+      margin-bottom: 20px;
+    }
+  
+    .nav-menu {
+      flex-direction: column;
+      gap: 10px;
+      text-align: center;
+    }
+  
+    .nav-menu li {
+      width: 100%;
+    }
+  
+    .nav-login-cart {
+      flex-direction: column;
+      gap: 15px;
+    }
+  }
+*/
 
 /*.nav-menu{
     display: flex;
