@@ -22,7 +22,7 @@
 }
 .carticon-product-icon{
     height: 62px;
-}  
+}
 .cartitems-remove-icon{
     width: 15px;
     margin: 0px 40px;
@@ -57,12 +57,12 @@
     border: none;
     background: #ff5a5a;
     color: #fff;
-    font-size: 16px; 
+    font-size: 16px;
     font-weight: 600;
     cursor: pointer;
 }
 .cartitems-promocode{
-    flex: 1; 
+    flex: 1;
     font-size: 16px;
     font-weight: 500;
 }
