@@ -45,6 +45,7 @@
     color: #5c5c5c;
     font-size: 18px;
     font-weight: 500;
+    /* display: flex; */
 }
 .loginsignup-login span{
     color: #ff4141;
@@ -58,6 +59,9 @@
     color: #5c5c5c;
     font-size: 18px;
     font-weight: 500;
+}
+span{
+    cursor: pointer;
 }
 @media(max-width:1280px){
     .loginsignup{
